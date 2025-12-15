@@ -40,6 +40,10 @@ The system is composed of several inter-connected Solidity smart contracts, loca
 | `Oracle.sol` | Provides the necessary **ETH/USD** and **ETH/JUSD** price feeds for debt valuation and liquidation checks. |
 | `DEX.sol` | A simple ETH/JUSD Decentralized Exchange used to determine the market price of the stablecoin for peg monitoring. |
 
+## Network & Demo Notes:
+* The protocol is currently deployed and running on the Sepolia testnet.
+* The live demo operates with limited liquidity, as it is intended for demonstration and educational purposes rather than production use.
+
 ## Author  
 
 **Jason Tong**  
