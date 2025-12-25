@@ -7,7 +7,7 @@ This project is the implementation of the core engine for **JUSD**, a decentrali
 This system is modeled after the original "single collateral Dai" (MakerDAO) architecture, focusing on the essential mechanisms required for a robust, over-collateralized lending and stablecoin protocol.
 
 - **Live Product:** [JUSD](https://jusd-stablecoin.vercel.app/).
-- **Smart Contract using Foundry:** [JUSD Frontend](https://github.com/JasonTongg/JUSD_Frontend)
+- **Frontend using Nextjs:** [JUSD Frontend](https://github.com/JasonTongg/JUSD_Frontend)
 
 ### Key Concepts Explored
 
